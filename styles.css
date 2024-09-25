@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
+
+.video-holder {
+    margin: 20px 0;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
